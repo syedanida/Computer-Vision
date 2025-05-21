@@ -113,4 +113,4 @@ We implemented various vision classifiers across multiple datasets, comparing tr
 
 A complete video walkthrough of all implementations is available here:
 
-[Video Walkthrough Link](INSERT_VIDEO_LINK_HERE)
+[Video Walkthrough Link](https://youtu.be/mh9meGrpbgQ)
